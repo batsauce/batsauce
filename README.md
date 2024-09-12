@@ -19,6 +19,10 @@ Hi, I'm Taylor. I read a lot of books and like to chef it up in my free time.
 |     3|Any dish with crawfish               |
  
 </details>
+
+---
+>all the homies love my food.
+- taylor kenny
 <!--
 **batsauce/batsauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
